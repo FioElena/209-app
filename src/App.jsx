@@ -8,7 +8,7 @@ const Profile = () => {
   return <h2>Страницв профиля</h2>
 }
 const Messages = () => {
-  return <h2>Страница сообщений</h2>
+  return <h2>Сообщения</h2>
 }
 const Settings = () => {
   return <h2>Страница настроек</h2>
