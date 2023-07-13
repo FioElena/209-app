@@ -5,7 +5,7 @@ const Main = () => {
   return <h1>Добро пожаловать!</h1>
 }
 const Profile = () => {
-  return <h2>Профиль</h2>
+  return <h2>Страницв профиля</h2>
 }
 const Messages = () => {
   return <h2>Страница сообщений</h2>
