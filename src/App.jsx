@@ -11,7 +11,7 @@ const Messages = () => {
   return <h2>Сообщения</h2>
 }
 const Settings = () => {
-  return <h2>Страница настроек</h2>
+  return <h2>Настройки</h2>
 }
 
 function App() {
