@@ -41,7 +41,6 @@ export class Friends extends React.Component {
 			}
 			this.setState({ userRow: userRow });
 		});
-
 	}
 
 	render() {
@@ -64,6 +63,5 @@ export class Friends extends React.Component {
 				</div>
 			</>
 		);
-
 	}
 }
